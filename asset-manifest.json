@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DomenicoMereu97/note.git/static/css/main.0abb853e.css",
+    "main.js": "/DomenicoMereu97/note.git/static/js/main.cb38667f.js",
+    "index.html": "/DomenicoMereu97/note.git/index.html",
+    "main.0abb853e.css.map": "/DomenicoMereu97/note.git/static/css/main.0abb853e.css.map",
+    "main.cb38667f.js.map": "/DomenicoMereu97/note.git/static/js/main.cb38667f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0abb853e.css",
+    "static/js/main.cb38667f.js"
+  ]
+}
